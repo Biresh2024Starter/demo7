@@ -1,0 +1,18 @@
+#mypic
+{
+    border-radius: 40px;
+    height: 300px;
+    width: 250px;
+}
+hr
+{
+    height:10px;
+    background-color:black;
+}
+.referrals
+{
+    height:30px;
+    width:30px;
+    border-radius: 20px;
+    border-color: black;
+}
